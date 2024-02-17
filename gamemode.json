@@ -1,0 +1,43 @@
+{
+  "Name": "<size=30><color=#ff10ca>П</color><color=#fa16cb>а</color><color=#f51ccc>р</color><color=#f022cd>к</color><color=#eb28ce>у</color><color=#e62ecf>р</color><color=#e134d0> </color><color=#dc3ad1>н</color><color=#d740d2>а</color><color=#d246d3> </color><color=#cd4cd4>а</color><color=#c852d5>д</color><color=#c358d6>м</color><color=#be5ed7>и</color><color=#b964d8>н</color><color=#b46ad9>к</color><color=#af70da>у</color><color=#aa76db>|</color><color=#a57cdc>о</color><color=#a082dd>т</color><color=#9b88de>:</color><color=#968edf>ツ</color><color=#9194e0>Ｃ</color><color=#8c9ae1>O</color><color=#87a0e2>₵</color><color=#82a6e3>Ꭿ</color><color=#7dace4>-</color><color=#78b2e5>Ｃ</color><color=#73b8e6>Ø</color><color=#6ebee7>ł</color><color=#69c4e8>Ꭿ</color></size>",
+  "Description": "<color=red>ПАРКУР НА АДМИНКУ ツ</a>",
+  "StartClientVersion": 334,
+  "MapFilter": {
+    "IsBlank": false,
+    "HasParcourEnd": false
+  },
+  "MapLists": [
+    {
+      "MapListId": 324,
+      "Name": "Официальные карты"
+    },
+    {
+      "MapListId": 581
+    }
+  ],
+  "Parameters": {
+    "Bool": [
+      {
+        "Name": "MapRotation",
+        "DisplayName": "GmParams/MapRotation",
+        "Default": true
+      },
+      {
+        "Name": "OnlyKnives",
+        "DisplayName": "GmParams/OnlyKnives"
+      },
+      {
+        "Name": "PartialDesruction",
+        "DisplayName": "GmParams/PartialDesruction"
+      },
+      {
+        "Name": "LoosenBlocks",
+        "DisplayName": "GmParams/LoosenBlocks"
+      },
+      {
+        "Name": "FriendlyFire",
+        "DisplayName": "GmParams/FriendlyFire"
+      }
+    ]
+  }
+}
